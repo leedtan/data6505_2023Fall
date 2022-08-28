@@ -34,8 +34,8 @@ Support staff office hours and locations to be announced.
 | **Title:** Data Munging in Python |  |
 :--- | :--- 
 **Course Number:** `DATA 6505` | **Credit Hours:** 3 | 
-**Prerequisites:** `DATA 5404` | **Course Duration**: Sep., 7th - Dec., 22nd|
-**Delivery Method:**  In class (**DSBN 212**) and online  | **Meeting Time:** T 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2021-2022) |
+**Prerequisites:** `DATA 5405` | **Course Duration**: Sep., 6th - Dec., 21nd|
+**Delivery Method:**  In class (**DSBN 212**) and online  | **Meeting Time:** Th 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2022-23) |
 
 ### Course Description
 
