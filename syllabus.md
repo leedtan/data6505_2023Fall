@@ -232,7 +232,7 @@ The following course outline is tentative and subject to change when and where d
 | __MODULE 2__ | NumPy |
 | Week5 (Oct., 6 - Oct., 12) | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "NumPy" | __Coding Assignment 2__ Available |
 | Week6 (Oct., 13 - Oct., 19) | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | | __Coding Assignment 2__ Due |
-| __MODULE 3_ | Pandas |
+| __MODULE 3__ | Pandas |
 | Week7 (Oct., 20 - Oct., 26) | Pandas: Data Structures | PDS Ch.3.0 - 3.3 | DataCamp "Slicing and indexing" | __Coding Asssignment 3__ Available |
 | Week8 (Oct., 27 - Nov., 2) | Pandas: Data Manipulation | PDS Ch.3.4 - 3.6 | DataCamp "Transforming Data" | __Final Project__ Available |
 | Week9 (Nov., 3 - Nov., 9) | Pandas: Data Types & Cleaning | PDS Ch.3.7 - 3.10 | | __Coding Asssignment 3__ Due |
