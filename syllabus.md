@@ -34,8 +34,8 @@ Support staff office hours and locations to be announced.
 | **Title:** Data Munging in Python |  |
 :--- | :--- 
 **Course Number:** `DATA 6505` | **Credit Hours:** 3 | 
-**Prerequisites:** `DATA 5405` | **Course Duration**: Sep., 6th - Dec., 21nd|
-**Delivery Method:**  In class (**DSBN 212**) and online  | **Meeting Time:** Th 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2022-23) |
+**Prerequisites:** `DATA 5405` | **Course Duration**: Sep., 6th - Dec., 21st|
+**Delivery Method:**  In class (**DSBN 215**) and online  | **Meeting Time:** Th 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2022-23) |
 
 ### Course Description
 
@@ -101,12 +101,11 @@ This class is graded based on a point system (with a total of __1,000__ points),
 
 | Deliverables | Point Value |
 :--- | :---
-| Lesson Notebooks | 10 x 10 = __100__ points |
-| Coding Assignments | 50 x 4 + 100 = __300__ points |
+| Coding Assignments | 100 x 5 = __500__ points |
 | DataCamp Assignments | 25 x 8 = __200__ points |
 | Course Project Proposal | __50__ points |
-| Course Project Deliverable (Presentation + Report) | __250__ points |
-| Participation and Professionalism | __100__ points |
+| Course Project Deliverable (Presentation + Report) | __200__ points |
+| Participation and Professionalism | __50__ points |
 | __Total__ | __1,000__ points|
 
 ### Grading Scale
@@ -127,24 +126,19 @@ This class is graded based on a point system (with a total of __1,000__ points),
 ---
 
 ## Course Deliverables
-### In-class Labs
-In some of the classes, you are required to complete hands-on mini labs in class, in which you will need to apply skills covered in 
-respective classes. You will need to __submit__ the __completed__ notebook before the __following class__. Each part counts for 10 points in your final grade.
-
-### DataCamp Assignments
-DataCamp is an online learning community covering Python, R, and SQL. In this course, you will receive __free of charge__ accesses to learning materials. You will need to complete these materials on your own time, each part of the assignment counts for 15 points in your final grade.
-
 ### Coding Assignments
-There are two individual assignments that focus on the __practical__ parts of the learning objectives. The assignments are worth 46 points each 
-and are based on the following business applications.
-<!--+ __HealthStats Project__: This project is designed to provide __Just-in-Time__ practice with the analytical packages of Python, Jupyter, and GitHub. In each part you will complete a short assignment that applies what you have learned in the classroom that week. Do not do assignments until they are assigned. They may change at any time until they are formally assigned.-->
+
 + **Coding assignments**: there are five (5) coding assignments in this course, which means one (1) assignment for each study unit. In each assignment, you are expected to complete one or more data munging/exploration task(s) using Python/NumPy/Pandas/Matplotlib. Each part is 100 points. 
 
 + The last part of the coding assignment will be a miniature version of your final project.You should consider using the notebook provided for the part for your final project presentation/report. Zero point.
 
 You are __encouraged to collaborate__ with your peers. However, you are also responsible for learning the key lessons of each assignment. So, if you need help, ask for it and pay attention to the answers. If you know how to help someone (without doing the work for them), then please help them out. For any coding assignment, there is an __optional__ checkpoint that you can submit your work for feedback. Please allow enough time for feedback, and note your checkpoint submissions will __not__ be graded.
 
-### Final Project
+### DataCamp Assignments
+DataCamp is an online learning community covering Python, R, and SQL. In this course, you will receive __free of charge__ accesses to learning materials. You will need to complete these materials on your own time, each part of the assignment counts for 25 points in your final grade.
+
+
+### Course Project
 Students will self-select into teams of about 2-3 students and will work in their
 own time outside of class to complete a Python “code portfolio” that they can show future employers
 to demonstrate their proficiency. __OPTIONALLY__, Each portfolio should consist of one or more Jupyter notebooks
@@ -168,6 +162,10 @@ grading rubric for each deliverable will be posted before they are due.
 
 ### Participation and Professionalism
 Given the large class enrollment and the technical nature of the subject, it is critical that everyone take a professional approach to learning the material. Students are expected to come to class prepared and then participate in all activities to the best of their abilities. Cheating, free-riding, and other unprofessional behavior will not be tolerated.
+
+### In-class Labs
+In some of the classes, you are required to complete hands-on mini labs in class, in which you will need to apply skills covered in 
+respective classes. You will need to __submit__ the __completed__ notebook before the __following class__. These are required work and timely complete them will reflect in your __participation and professionalism__ grade.
 
 ---
 
@@ -203,7 +201,7 @@ __Course Materials__: All the teaching materials, including assignments and exam
 
 __Late Submissions__: Grades become official one week after assignments/exams have been returned by the instructor. Late submissions might be accepted with a 10% grade penalty. Oral excuses are not acceptable. No make-up opportunities would be given to final deliverables of projects.
 
-__Class Communications and Feedbacks__: We will use __Slack__ for __all__ course communications. __DO NOT SEND EMAIL TO YOUR PROFESSORS. DM instead.__ You will receive an email invitation from ``Yue.Pu@fairfield.edu`` with instructions. You need to join the ``#buan6505`` channel to communicate with me and the class. Normally, I would reply to your DM no longer than __12__ hours. Allow more time during weekends and holidays. Feedbacks on your assignments/deliverables will generally be returned to your within a week after the due of the assignment. After receiving the feedback (and grade), you have __three (3)__ days to dispute a grade with proper justified reasons. 
+__Class Communications and Feedbacks__: We will use __Slack__ for __all__ course communications. __DO NOT SEND EMAIL TO YOUR PROFESSORS. DM instead.__ You will receive an email invitation from ``Yue.Pu@fairfield.edu`` with instructions. You need to join the ``#data6505`` channel to communicate with me and the class. Normally, I would reply to your DM no longer than __12__ hours. Allow more time during weekends and holidays. Feedbacks on your assignments/deliverables will generally be returned to your within a week after the due of the assignment. After receiving the feedback (and grade), you have __three (3)__ days to dispute a grade with proper justified reasons. 
 
 <!--When sending an email to your instructor, please include in your email your section name or the time you are taking the class (i.e., using “BA505  + your name” in the subject line). Normally, I would reply to your email no longer than __24__ hours. I will not respond to emails sending from/to non-university emails. Allow more time during weekends and holidays. Feedbacks on your assignments/deliverables will generally be returned to your within a week after the due of the assignment. After receiving the feedback (and grade), you have __three (3)__ days to dispute a grade with proper justified reasons. Special Note: Throughout this course, I will use my student email address (jtao@student.fairfield.edu) to share course files with you – however, __ALL__ course related communications should be referred to my main email (jtao@fairfield.edu).-->
 
@@ -225,14 +223,14 @@ The following course outline is tentative and subject to change when and where d
 :--- | :--- | :--- | :--- | :--- 
 | __MODULE 1__ | Vanilla Python |
 | Week0 (Sep., 1 - Sep., 7) | Course On-boarding | Course Logistics |  |
-| Week1 (Sep., 8 - Sep., 14) | Python Review: List & Dictionaries | PY4E Ch.4,5 . | DataCamp "The Basics" |  |
+| Week1 (Sep., 8 - Sep., 14) | Python Review: List & Dictionaries | PY4E Ch.4,5 . | DataCamp "Containers - Lists & Dicts" | __Coding Asssignment 1__ Available |
 | Week2 (Sep., 15 - Sep., 21) | Python Review: Functions & Iterations | PY4E Ch.8, 9 | DataCamp "Control Flow and Logic" | |
-| Week3 (Sep., 22 - Sep., 28) | Crash Course: Web Scraping Part 1 | Extra Content | DataCamp "Introduction to HTML" | __Coding Asssignment 1__ Available |
-| Week4 (Sep., 29 - Oct., 5) | Crash Course: Web Scraping Part 2 | Extra Content |  |  __Coding Asssignment 1__ Due |
+| Week3 (Sep., 22 - Sep., 28) | Crash Course: Web Scraping Part 1 | Extra Content | DataCamp "Introduction to HTML" | __Coding Asssignment 1__ Due |
+| Week4 (Sep., 29 - Oct., 5) | Crash Course: Web Scraping Part 2 | Extra Content |  |  __Coding Assignment 2__ Available |
 | __MODULE 2__ | NumPy |
-| Week5 (Oct., 6 - Oct., 12) | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "NumPy" | __Coding Assignment 2__ Available |
+| Week5 (Oct., 6 - Oct., 12) | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "NumPy" | |
 | Week6 (Oct., 13 - Oct., 19) | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | | __Coding Assignment 2__ Due |
-| __MODULE 3__ | Pandas |
+| __MODULE 3_ | Pandas |
 | Week7 (Oct., 20 - Oct., 26) | Pandas: Data Structures | PDS Ch.3.0 - 3.3 | DataCamp "Slicing and indexing" | __Coding Asssignment 3__ Available |
 | Week8 (Oct., 27 - Nov., 2) | Pandas: Data Manipulation | PDS Ch.3.4 - 3.6 | DataCamp "Transforming Data" | __Final Project__ Available |
 | Week9 (Nov., 3 - Nov., 9) | Pandas: Data Types & Cleaning | PDS Ch.3.7 - 3.10 | | __Coding Asssignment 3__ Due |
