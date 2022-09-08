@@ -24,7 +24,7 @@
 ## Course Support Staff
 - Instructional Technologies: Yue Pu [Email](mailto:yue.pu@fairfield.edu) __USE SLACK INSTEAD__
 - Python Tutors:
-  + TBD
+  + Wilson Alexei
 
 Support staff office hours and locations to be announced.
 
