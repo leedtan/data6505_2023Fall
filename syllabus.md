@@ -223,7 +223,7 @@ The following course outline is tentative and subject to change when and where d
 :--- | :--- | :--- | :--- | :--- 
 | __MODULE 1__ | Vanilla Python |
 | Week0 (Sep., 1 - Sep., 7) | Course On-boarding | Course Logistics |  |
-| Week1 (Sep., 8 - Sep., 14) | Python Review: List & Dictionaries | PY4E Ch.4,5 . | DataCamp "Containers - Lists & Dicts" | __Coding Asssignment 1__ Available |
+| Week1 (Sep., 8 - Sep., 14) | Python Review: List & Dictionaries | PY4E Ch.4,5 . | DataCamp "The Basics" | __Coding Asssignment 1__ Available |
 | Week2 (Sep., 15 - Sep., 21) | Python Review: Functions & Iterations | PY4E Ch.8, 9 | DataCamp "Control Flow and Logic" | |
 | Week3 (Sep., 22 - Sep., 28) | Crash Course: Web Scraping Part 1 | Extra Content | DataCamp "Introduction to HTML" | __Coding Asssignment 1__ Due |
 | Week4 (Sep., 29 - Oct., 5) | Crash Course: Web Scraping Part 2 | Extra Content |  |  __Coding Assignment 2__ Available |
