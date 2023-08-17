@@ -18,8 +18,8 @@
 ## Professor Information 
 | Contact Info         |                                                                  |                                       |
 |:-------------------  |:-----------------------------------------------------------------|:------------------------------------- |
-| **Name:** Jie Tao    | **Email:** [jtao@fairfield.edu](mailto:jtao@fairfield.edu) __USE SLACK DM INSTEAD__      | **Phone:** (203)254-4000 x 2232       |
-| **Office:** DSBN 347F | **Office Hours:** [appointment system](https://calendly.com/jtao-4/office-hours)     | __Online Office hours__ on Slack Channel | 
+| **Name:** Lee Tanenbaum    | **Email:** [ltanenbaum@fairfield.edu) __USE SLACK DM INSTEAD__      | **Phone:** # TODO (203)254-4000 x XXXX       |
+| **Office:** #TODO DSBN 347F | **Office Hours:** [appointment system](https://calendly.com/jtao-4/office-hours)     | __Online Office hours__ on Slack Channel | 
 ---
 ## Course Support Staff
 - Instructional Technologies: Yue Pu [Email](mailto:yue.pu@fairfield.edu) __USE SLACK INSTEAD__
@@ -111,17 +111,13 @@ This class is graded based on a point system (with a total of __1,000__ points),
 ### Grading Scale
 
 *Percentages and letter grades are provided for your convenience, as this class (noted above) is based on a point system.*
+We will integrate all summative scores into a singular score and convert from z-scores directly to grades points
 
-| Total Points | Percentage | Letter Grade |
-:--- | :--- | :--- 
-| 930 - 1,000 | 93 - 100 | A |
-| 900 - 929 | 90 - 92.9 | A- |
-| 870 - 899 | 87 - 89.9 | B+ |
-| 830 - 869 | 83 - 86.9 | B |
-| 800 - 829 | 80 - 82.9 | B- |
-| 770 - 799 | 77 - 79.9 | C+ |
-| 730 - 769 | 73 - 76.9 | C |
-| 729 and below | 72.9 and below | F |
+QP Score = 3.5 + 0.5*(x - mu)/sigma
+That puts everything on a gpa scale. An A is 3.67 or above, an A- is 3.33-3.66, etc.
+| 3.67+ | A |
+| 3.5-3.67 | A- |
+| 3.5-3.67 | A- |
 
 ---
 
