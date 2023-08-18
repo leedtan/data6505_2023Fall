@@ -114,10 +114,13 @@ This class is graded based on a point system (with a total of __1,000__ points),
 We will integrate all summative scores into a singular score and convert from z-scores directly to grades points
 
 QP Score = 3.5 + 0.5*(x - mu)/sigma
-That puts everything on a gpa scale. An A is 3.67 or above, an A- is 3.33-3.66, etc.
+| QP Score| Letter Grade |
+| 0 - 2.34 | C |
+| 2.34 - 2.67 | B- |
+| 2.67 - 3 | B |
+| 3 - 3.34 | B+ |
+| 3.34 - 3.67 | A- |
 | 3.67+ | A |
-| 3.5-3.67 | A- |
-| 3.5-3.67 | A- |
 
 ---
 
