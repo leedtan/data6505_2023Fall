@@ -114,6 +114,7 @@ This class is graded based on a point system (with a total of __1,000__ points),
 We will integrate all summative scores into a singular score and convert from z-scores directly to grades points
 
 QP Score = 3.5 + 0.5*(x - mu)/sigma
+:--- | :---
 | QP Score| Letter Grade |
 | 0 - 2.34 | C |
 | 2.34 - 2.67 | B- |
