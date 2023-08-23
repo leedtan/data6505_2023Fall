@@ -223,21 +223,21 @@ The following course outline is tentative and subject to change when and where d
 | Date | Topics | Coverage | DataCamp Chapters | Assignments |
 :--- | :--- | :--- | :--- | :--- 
 | __MODULE 1__ | Vanilla Python |
-| Week0 (Sep., 1 - Sep., 7) | Course On-boarding | Course Logistics |  |
-| Week1 (Sep., 8 - Sep., 14) | Python Review: List & Dictionaries | PY4E Ch.4,5 . | DataCamp "The Basics" |  |
-| Week2 (Sep., 15 - Sep., 21) | Python Review: Functions & Iterations | PY4E Ch.8, 9 | DataCamp "Control Flow and Logic" | |
-| Week3 (Sep., 22 - Sep., 28) | Crash Course: Web Scraping Part 1 | Extra Content | DataCamp "Introduction to HTML" | __Coding Asssignment 1__ Available |
-| Week4 (Sep., 29 - Oct., 5) | Crash Course: Web Scraping Part 2 | Extra Content |  | __Coding Asssignment 1__ Due |
+| Week0 (Sep., 6) | Course On-boarding | Course Logistics |  |
+| Week1 (Sep., 13) | Python Review: List & Dictionaries | PY4E Ch.4,5 . | DataCamp "The Basics" |  |
+| Week2 (Sep., 20) | Python Review: Functions & Iterations | PY4E Ch.8, 9 | DataCamp "Control Flow and Logic" | |
+| Week3 (Sep., 27) | Crash Course: Web Scraping Part 1 | Extra Content | DataCamp "Introduction to HTML" | __Coding Asssignment 1__ Available |
+| Week4 (Oct., 4) | Crash Course: Web Scraping Part 2 | Extra Content |  | __Coding Asssignment 1__ Due |
 | __MODULE 2__ | NumPy |
-| Week5 (Oct., 6 - Oct., 12) | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "NumPy" | __Coding Assignment 2__ Available |
-| Week6 (Oct., 13 - Oct., 19) | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | | __Coding Assignment 2__ Due |
+| Week5 (Oct., 11) | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "NumPy" | __Coding Assignment 2__ Available |
+| Week6 (Oct., 18) | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | | __Coding Assignment 2__ Due |
 | __MODULE 3_ | Pandas |
-| Week7 (Oct., 20 - Oct., 26) | Pandas: Data Structures | PDS Ch.3.0 - 3.3 | DataCamp "Slicing and indexing" | __Coding Asssignment 3__ Available |
-| Week8 (Oct., 27 - Nov., 2) | Pandas: Data Manipulation | PDS Ch.3.4 - 3.6 | DataCamp "Transforming Data" | __Final Project__ Available |
-| Week9 (Nov., 3 - Nov., 9) | Pandas: Data Types & Cleaning | PDS Ch.3.7 - 3.10 | | __Coding Asssignment 3__ Due |
-| Week10 (Nov., 10 - Nov., 16) | Pandas: Apply Functions | PD4E Ch.9 | DataCamp "Introduction to Data Preprocessing"  | __Final Project__  Checkpoint 1 |
-| Week11 (Nov., 17 - Nov., 23) |Pandas: Data Aggregation | PD4E Ch.10 | DataCamp "Data Manipulation with pandas - Aggregating Data" | __Coding Asssignment 4__ Available |
+| Week7 (Oct., 25) | Pandas: Data Structures | PDS Ch.3.0 - 3.3 | DataCamp "Slicing and indexing" | __Coding Asssignment 3__ Available |
+| Week8 (Nov., 1) | Pandas: Data Manipulation | PDS Ch.3.4 - 3.6 | DataCamp "Transforming Data" | __Final Project__ Available |
+| Week9 (Nov., 8) | Pandas: Data Types & Cleaning | PDS Ch.3.7 - 3.10 | | __Coding Asssignment 3__ Due |
+| Week10 (Nov., 15) | Pandas: Apply Functions | PD4E Ch.9 | DataCamp "Introduction to Data Preprocessing"  | __Final Project__  Checkpoint 1 |
+| Week11 (Nov., 22) |Pandas: Data Aggregation | PD4E Ch.10 | DataCamp "Data Manipulation with pandas - Aggregating Data" | __Coding Asssignment 4__ Available |
 | __MODULE 4__ | Plotting |
-| Week12 (Dec., 1 - Dec., 7) | Matplotlib: Introduction & Simple Plotting | PDS Ch.4.0 - 4.2; 4.5 - 4.6 | | __Coding Asssignment 4__ Due |
-| Week13 (Dec., 8 - Dec., 14) | Matplotlib: Annotation & Customization | PDS Ch.4.7 - 4.10 | | __MOCK__ Final Project (In class)  |
-| Week14 (Dec., 15) | Final Project Presentation |
+| Week12 (Dec., 6) | Matplotlib: Introduction & Simple Plotting | PDS Ch.4.0 - 4.2; 4.5 - 4.6 | | __Coding Asssignment 4__ Due |
+| Week13 (Dec., 13) | Matplotlib: Annotation & Customization | PDS Ch.4.7 - 4.10 | | __MOCK__ Final Project (In class)  |
+| Week14 (Dec., 20) | Final Project Presentation |
