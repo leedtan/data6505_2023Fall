@@ -18,16 +18,8 @@
 ## Professor Information 
 | Contact Info         |                                                                  |                                       |
 |:-------------------  |:-----------------------------------------------------------------|:------------------------------------- |
-| **Name:** Lee Tanenbaum    | **Email:** [ltanenbaum@fairfield.edu) __USE SLACK DM INSTEAD__      | **Phone:** # TODO (203)254-4000 x XXXX       |
+| **Name:** Lee Tanenbaum    | **Email:** [ltanenbaum@fairfield.edu) __USE SLACK DM INSTEAD__       |
 | **Office:** #TODO DSBN 347F | **Office Hours:** [appointment system](https://calendly.com/jtao-4/office-hours)     | __Online Office hours__ on Slack Channel | 
----
-## Course Support Staff
-- Instructional Technologies: Yue Pu [Email](mailto:yue.pu@fairfield.edu) __USE SLACK INSTEAD__
-- Python Tutors:
-  + Wilson Alexei
-
-Support staff office hours and locations to be announced.
-
 
 ---
 
