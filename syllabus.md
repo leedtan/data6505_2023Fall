@@ -93,7 +93,7 @@ This class is graded based on a point system (with a total of __1,000__ points),
 
 | Deliverables | Point Value |
 :--- | :---
-| Coding Assignments | 100 x 5 = __500__ points |
+| Coding Assignments | 125 x 4 = __500__ points |
 | DataCamp Assignments | 25 x 8 = __200__ points |
 | Course Project Proposal | __50__ points |
 | Course Project Deliverable (Presentation + Report) | __200__ points |
