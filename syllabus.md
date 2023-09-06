@@ -28,6 +28,7 @@
 
 Support staff office hours and locations to be announced.
 
+
 ---
 
 ## Course Information
@@ -36,7 +37,7 @@ Support staff office hours and locations to be announced.
 **Course Number:** `DATA 6505` | **Credit Hours:** 3 | 
 **Prerequisites:** `DATA 5405` | **Course Duration**: Sep., 6th - Dec., 21st|
 **Delivery Method:**  In class (**DSBN 215**) and online  | **Meeting Time:** Th 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2022-23) |
-
+PPT Lecture 0 organizing all this content: https://docs.google.com/presentation/d/11oF-Rk3kb9p3iZ6LHQa6jrouArcXCoRgGkMoCYM4P6Y/edit#slide=id.g27bc862e873_0_2
 ### Course Description
 
 This course introduces Python as a language and tool for collecting, preprocessing, and visualizing data for business analytics. 
