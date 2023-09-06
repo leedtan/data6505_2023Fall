@@ -3,7 +3,6 @@
 ---
 ## Table of Contents
 + [Professor Information](#professor-information)
-+ [Course Support Staff](#course-support-staff)
 + [Course Information](#course-information)
 + [Course Materials](#course-materials)
 + [Learning Objectives](#learning-objectives)
