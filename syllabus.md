@@ -219,7 +219,7 @@ The following course outline is tentative and subject to change when and where d
 | Week1 (Sep., 13) | Python Review: List & Dictionaries | PY4E Ch.4,5 . | DataCamp "The Basics" |  |
 | Week2 (Sep., 20) | Python Review: Functions & Iterations | PY4E Ch.8, 9 | DataCamp "Intermediate Python Logic, Control Flow and Filtering" | |
 | Week3 (Sep., 27) | Intermediate Python - Putting it all together | PY4E 4,5,8,9 recap | DataCamp "Data Types for Data Science in Python Dictionaries - The Root of Python" | __Coding Asssignment 1__ Available |
-| Week4 (Oct., 4) | Python Classes | PY4E Ch. 10 | Introduction to Python Functions and Packages | __Coding Asssignment 1__ Due |
+| Week4 (Oct., 4) | Python Classes | PY4E Ch. 10 | Datacamp: Introduction to Python Functions and Packages | __Coding Asssignment 1__ Due |
 | __MODULE 2__ | NumPy |
 | Week5 (Oct., 11) | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "NumPy" | __Coding Assignment 2__ Available |
 | Week6 (Oct., 18) | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | | __Coding Assignment 2__ Due |
