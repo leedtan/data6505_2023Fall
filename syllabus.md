@@ -18,7 +18,7 @@
 | Contact Info         |                                                                  |                                       |
 |:-------------------  |:-----------------------------------------------------------------|:------------------------------------- |
 | **Name:** Lee Tanenbaum    | **Email:** [ltanenbaum@fairfield.edu) __USE SLACK DM INSTEAD__       |
-| **Office:** #TODO DSBN 347F | **Office Hours:** [appointment system](https://calendly.com/jtao-4/office-hours)     | __Online Office hours__ on Slack Channel | 
+| **Office:** #TODO DSBN 347F | **Office Hours:** [appointment system](<--https://calendly.com/ltanenbaum-->)     | __Online Office hours__ on Zoom Channel | 
 
 ---
 
@@ -201,8 +201,6 @@ __Class Communications and Feedbacks__: We will use __Slack__ for __all__ course
 __Academic Honesty__: Fairfield University’s primary purpose is the pursuit of academic excellence. All members of the Fairfield University community share responsibility for establishing and maintaining appropriate standards of academic honesty and integrity. This is possible only in an atmosphere where discovery and communication of knowledge are marked by scrupulous, unqualified honesty. In the event of such dishonesty, professors are to award a grade of zero for the project, paper, or examination in question, and may record an F for the course itself.
 
 __Students with Disabilities__: Fairfield University is committed to providing qualified students with disabilities an equal opportunity to access the benefits, rights and privileges of its services, programs and activities, in an accessible setting. Fur-thermore, in compliance with Section 504 of the Rehabilitation Act, the Americans with Disabilities Act, and Connecticut State laws, we provide reasonable accommodations to qualified students, to reduce the impact of disabilities on academic functioning or upon other major life activities. 
-
-__Online Office/Coaching Hours__: online office hours are available via [Zoom](), which runs in addition to the regular on ground office hours. If needed, additional coaching hours can be arranged.
 
 <!--__Python Tutoring__: Given the circumstances that the professor is not available, we have Python tutors for on-ground and online tutoring services. Make sure to maintain contacts with your Python tutors.-->
 
