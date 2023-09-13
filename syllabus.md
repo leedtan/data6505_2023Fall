@@ -20,6 +20,8 @@
 | **Name:** Lee Tanenbaum    | **Email:** [ltanenbaum@fairfield.edu) __USE SLACK DM INSTEAD__       |
 | **Office:** #TODO DSBN 347F | **Office Hours:** same zoom link as class https://fairfield.zoom.us/j/94037386019#success <!--[appointment system](https://calendly.com/ltanenbaum)--> |
 
+| **Office:** #TODO DSBN 347F | **Office Hours:** same zoom link as class https://fairfield.zoom.us/j/94037386019#success <!--<--[appointment system](https://calendly.com/ltanenbaum)--> |
+
 ---
 
 ## Course Information
