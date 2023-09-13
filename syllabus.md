@@ -15,10 +15,10 @@
 ---
 
 ## Professor Information 
-| Contact Info         |                                                                  |                                       |
-|:-------------------  |:-----------------------------------------------------------------|:------------------------------------- |
+| Contact Info         |                                                                  | 
+|:-------------------  |:-----------------------------------------------------------------|
 | **Name:** Lee Tanenbaum    | **Email:** [ltanenbaum@fairfield.edu) __USE SLACK DM INSTEAD__       |
-| **Office:** #TODO DSBN 347F | **Office Hours:** [appointment system](<--https://calendly.com/ltanenbaum-->)     | __Online Office hours__ on Zoom Channel | 
+| **Office:** #TODO DSBN 347F | **Office Hours:** https://fairfield.zoom.us/j/94037386019#success <--[appointment system](https://calendly.com/ltanenbaum)--> |
 
 ---
 
