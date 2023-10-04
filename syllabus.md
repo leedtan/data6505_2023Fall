@@ -219,8 +219,8 @@ The following course outline is tentative and subject to change when and where d
 | Week3 (Sep., 27) | Intermediate Python - Putting it all together | PY4E 4,5,8,9 recap | DataCamp "Data Types for Data Science in Python Dictionaries - The Root of Python" |  |
 | Week4 (Oct., 4) | Python Classes | PY4E Ch. 10 | Datacamp: Introduction to Python Functions and Packages | __Coding Asssignment 1__ Due |
 | __MODULE 2__ | NumPy |
-| Week5 (Oct., 11) | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "NumPy" | __Coding Assignment 2__ Available |
-| Week6 (Oct., 18) | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | | __Coding Assignment 2__ Due |
+| Week5 (Oct., 11) | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "Introduction to NumPy" - "Understanding NumPy Arrays" and "Selecting and Updating Data" | __Coding Assignment 2__ Available |
+| Week6 (Oct., 18) | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | DataCamp "Introduction to NumPy" - "Array Mathematics" and "Array Transformations"| __Coding Assignment 2__ Due |
 | __MODULE 3__ | Pandas |
 | Week7 (Oct., 25) | Pandas: Data Structures | PDS Ch.3.0 - 3.3 | DataCamp "Slicing and indexing" | __Coding Asssignment 3__ Available |
 | Week8 (Nov., 1) | Pandas: Data Manipulation | PDS Ch.3.4 - 3.6 | DataCamp "Transforming Data" | __Final Project__ Available |
