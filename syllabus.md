@@ -222,8 +222,8 @@ The following course outline is tentative and subject to change when and where d
 | Week5 (Oct., 11) | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "Introduction to NumPy" - "Understanding NumPy Arrays" and "Selecting and Updating Data" | __Coding Assignment 2__ Available |
 | Week6 (Oct., 18) | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | DataCamp "Introduction to NumPy" - "Array Mathematics" and "Array Transformations"|  |
 | __MODULE 3__ | Pandas |
-| Week7 (Oct., 25) | Pandas: Data Structures | PDS Ch.3.0 - 3.3 |  | __Coding Assignment 2__ Due __Coding Asssignment 3__ Available |
-| Week8 (Nov., 1) | Pandas: Data Manipulation | PDS Ch.3.4 - 3.6 | DataCamp "Slicing and indexing", "Transforming Data" | __Final Project__ Available |
+| Week7 (Oct., 25) | Pandas: Data Structures | PDS Ch.3.0 - 3.3 |  | __Coding Assignment 2__ Due __Coding Asssignment 3__ Available  __Final Project__ Available |
+| Week8 (Nov., 1) | Pandas: Data Manipulation | PDS Ch.3.4 - 3.6 | DataCamp "Slicing and indexing", "Transforming Data" | |
 | Week9 (Nov., 8) | Pandas: Data Types & Cleaning | PDS Ch.3.7 - 3.10 | | |
 | Week10 (Nov., 15) | Pandas: Apply Functions | PD4E Ch.9 | DataCamp "Introduction to Data Preprocessing"  | __Final Project__  Checkpoint 1 |
 | Week11 (Nov., 22) |Pandas: Data Aggregation | PD4E Ch.10 | DataCamp "Data Manipulation with pandas - Aggregating Data" | |
