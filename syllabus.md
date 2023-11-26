@@ -226,7 +226,7 @@ The following course outline is tentative and subject to change when and where d
 | Week8 (Nov., 1) | Pandas: Data Manipulation | PDS Ch.3.4 - 3.6 | DataCamp "Slicing and indexing", "Transforming Data" | |
 | Week9 (Nov., 8) | Pandas: Data Types & Cleaning | PDS Ch.3.7 - 3.10 | | |
 | Week10 (Nov., 15) | Pandas: Apply Functions | PD4E Ch.9 | DataCamp "Introduction to Data Preprocessing"  | __Final Project__  Checkpoint 1 |
-| Week11 (Nov., 22) |Pandas: Data Aggregation | PD4E Ch.10 | DataCamp "Data Manipulation with pandas - Aggregating Data" | |
+| Week11 (Nov., 29) |Pandas: Data Aggregation | PD4E Ch.10 | DataCamp "Data Manipulation with pandas - Aggregating Data" | |
 | __MODULE 4__ | Plotting |
 | Week12 (Dec., 6) | Matplotlib: Introduction & Simple Plotting | PDS Ch.4.0 - 4.2; 4.5 - 4.6 | | __Coding Asssignment 3__ Due |
 | Week13 (Dec., 13) | Matplotlib: Annotation & Customization | PDS Ch.4.7 - 4.10 | | __MOCK__ Final Project (In class)  |
